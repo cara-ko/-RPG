@@ -79,5 +79,5 @@ null,
 {"id":77,"expanded":true,"name":"MAP077","order":78,"parentId":50,"scrollX":412,"scrollY":321.5},
 {"id":78,"expanded":true,"name":"MAP078","order":79,"parentId":50,"scrollX":412,"scrollY":321.5},
 {"id":79,"expanded":true,"name":"MAP079","order":80,"parentId":50,"scrollX":412,"scrollY":321.5},
-{"id":80,"expanded":false,"name":"測試地圖","order":1,"parentId":0,"scrollX":267.55555555555554,"scrollY":216.88888888888889,"quick":false}
+{"id":80,"expanded":true,"name":"測試地圖","order":1,"parentId":0,"scrollX":267.55555555555554,"scrollY":216.88888888888889,"quick":false}
 ]
