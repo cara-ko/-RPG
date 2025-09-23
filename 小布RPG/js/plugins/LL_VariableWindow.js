@@ -296,7 +296,7 @@
 
             this.contents.clear();
             this.changeTextColor(this.systemColor());
-            this.drawText($dataSystem.variables[this.getVariableId()], this.itemPadding(), 0, this.labelWidth());
+            this.drawTextEx($dataSystem.variables[this.getVariableId()], this.itemPadding(), 0, this.labelWidth());
             this.resetTextColor();
             this.drawText($gameVariables.value(this.getVariableId()), this.labelWidth() + this.itemPadding(), 0, (this.innerWidth - this.labelWidth() - (this.itemPadding() * 2)), "right");
         } else {
